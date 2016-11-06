@@ -1,0 +1,14 @@
+{
+  "name": "awesome-report-generator",
+  "version": "1.0.0",
+  "description": "",
+  "author": "M2JS",
+  "license": "",
+  "main": "index.js",
+  "engines": {
+    "node": ">=4.4.2"
+  },
+  "dependencies": {
+    "minimist": "1.2.0"
+  }
+}
