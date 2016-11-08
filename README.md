@@ -20,8 +20,8 @@ $> gulp report:generate --reportConfig=path-to-report-config.json
 
 ```
 {
-  "input": "e2e/output/cucumber.json",
-  "output": "e2e/output",
+  "input": "./e2e/output/cucumber.json",
+  "output": "./e2e/output",
   "format":[
     "html",
     "xlsx"
